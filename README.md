@@ -6,9 +6,9 @@ Como as vendas da loja online se correlacionam com a idade dos clientes, o núme
 
 2. Análise do Comportamento do Cliente:
 Como o comportamento do cliente (número de visitas, tempo de navegação) está relacionado com o total gasto pelos clientes? Existem padrões claros que indicam clientes que gastam mais tempo no site tendem a gastar mais?
-Impacto das Avaliações na Venda:
 
-3. Qual é o impacto da avaliação da loja dada pelos clientes nas vendas? As avaliações mais altas estão correlacionadas com vendas mais altas?
+3. Impacto das Avaliações na Venda:
+ Qual é o impacto da avaliação da loja dada pelos clientes nas vendas? As avaliações mais altas estão correlacionadas com vendas mais altas?
 
 4. Previsão de Entrega:
 Como o tempo médio de entrega das compras está relacionado com outras variáveis? Podemos prever o tempo de entrega com base nessas variáveis?
